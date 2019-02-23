@@ -1,19 +1,19 @@
 ﻿County Name,Number of Deaths,Type of Death1,Year (copy),Latitude (generated),Longitude (generated)
-Zavala,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.866,-99.761
+Zavala,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.866,-99.761
 Zapata,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.971,-99.203
 Young,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.175,-98.687
 Yoakum,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.173,-102.829
-Wood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.783,-95.407
+Wood,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.783,-95.407
 Wise,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.214,-97.652
 Winkler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-103.062
 Wilson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.176,-98.067
-Williamson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.68,-97.602
+Williamson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.68,-97.602
 Willacy,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.453,-97.585
 Wilbarger,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.087,-99.213
-Wichita,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.984,-98.688
+Wichita,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.984,-98.688
 Wheeler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.401,-100.269
 Wharton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.286,-96.241
-Webb,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.851,-99.505
+Webb,13,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.851,-99.505
 Washington,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.209,-96.437
 Ward,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.511,-103.189
 Waller,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.981,-95.997
@@ -26,29 +26,29 @@ Upton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.367,
 Upshur,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.73,-94.912
 Tyler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.779,-94.354
 Trinity,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.068,-95.138
-Travis,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.249,-97.771
+Travis,30,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.249,-97.771
 Tom Green,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.447,-100.689
 Titus,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.23,-94.967
 Throckmorton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.177,-99.211
 Terry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.173,-102.335
 Terrell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.224,-102.106
-Taylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.301,-99.89
-Tarrant,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.77,-97.291
+Taylor,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.301,-99.89
+Tarrant,19,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.77,-97.291
 Swisher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.53,-101.734
-Sutton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.497,-100.538
+Sutton,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.497,-100.538
 Stonewall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.179,-100.254
 Sterling,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.823,-101.044
 Stephens,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.736,-98.835
 Starr,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.551,-98.746
 Somervell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.223,-97.779
-Smith,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.358,-95.289
+Smith,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.358,-95.289
 Sherman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.277,-101.893
 Shelby,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.802,-94.152
 Shackelford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.736,-99.354
 Scurry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.745,-100.915
 Schleicher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.897,-100.538
 San Saba,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.152,-98.753
-San Patricio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.999,-97.521
+San Patricio,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.999,-97.521
 San Jacinto,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.518,-95.094
 San Augustine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.385,-94.191
 Sabine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.363,-93.821
@@ -72,7 +72,7 @@ Parmer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.53,
 Parker,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.777,-97.805
 Panola,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.157,-94.308
 Palo Pinto,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.759,-98.316
-Orange,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.114,-93.903
+Orange,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.114,-93.903
 Oldham,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.405,-102.602
 Ochiltree,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.278,-100.815
 Nueces,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.711,-97.463
@@ -83,7 +83,7 @@ Nacogdoches,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,3
 Motley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.073,-100.779
 Morris,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.116,-94.736
 Moore,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.837,-101.892
-Montgomery,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.306,-95.463
+Montgomery,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.306,-95.463
 Montague,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.685,-97.731
 Mitchell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.306,-100.922
 Mills,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.515,-98.63
@@ -92,7 +92,7 @@ Midland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.86
 Menard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.898,-99.8
 Medina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.357,-99.109
 McMullen,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.352,-98.568
-McLennan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.549,-97.203
+McLennan,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.549,-97.203
 McCulloch,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.182,-99.347
 Maverick,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.801,-100.389
 Matagorda,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.859,-95.945
@@ -113,7 +113,7 @@ Lee,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.296,-9
 Lavaca,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.361,-96.9
 Lampasas,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.232,-98.238
 Lamb,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.069,-102.35
-Lamar,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.702,-95.582
+Lamar,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.702,-95.582
 La Salle,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.344,-99.098
 Knox,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.602,-99.734
 Kleberg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.419,-97.612
@@ -128,53 +128,53 @@ Kaufman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.58
 Karnes,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.902,-97.882
 Jones,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.74,-99.879
 Johnson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.381,-97.351
-Jim Wells,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.846,-98.012
+Jim Wells,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.846,-98.012
 Jim Hogg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.07,-98.686
 Jefferson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.879,-94.129
 Jeff Davis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.76,-104.209
 Jasper,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.941,-94.162
-Jackson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.975,-96.623
+Jackson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.975,-96.623
 Jack,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.235,-98.172
 Irion,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.304,-100.981
 Hutchinson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.84,-101.354
-Hunt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.109,-96.077
-Hudspeth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.462,-105.452
+Hunt,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.109,-96.077
+Hudspeth,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.462,-105.452
 Howard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.305,-101.434
 Houston,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.342,-95.367
 Hopkins,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.159,-95.585
 Hood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.421,-97.841
-Hockley,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.606,-102.345
+Hockley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.606,-102.345
 Hill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.044,-97.108
-Hidalgo,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.429,-98.224
+Hidalgo,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.429,-98.224
 Henderson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.188,-95.941
 Hemphill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.837,-100.27
 Hays,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.001,-98.003
 Haskell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.178,-99.731
 Hartley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.84,-102.602
 Harrison,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.522,-94.372
-Harris,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.849,-95.434
+Harris,25,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.849,-95.434
 Hardin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.312,-94.401
 Hardeman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.253,-99.736
 Hansford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.277,-101.354
 Hamilton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.73,-98.115
 Hall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.53,-100.681
 Hale,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.07,-101.826
-Guadalupe,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.579,-97.971
+Guadalupe,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.579,-97.971
 Grimes,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.539,-95.996
-Gregg,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.501,-94.783
-Grayson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.659,-96.662
+Gregg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.501,-94.783
+Grayson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.659,-96.662
 Gray,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.401,-100.812
 Gonzales,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.443,-97.494
 Goliad,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.654,-97.466
 Glasscock,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-101.52
 Gillespie,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.318,-98.945
 Garza,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.179,-101.298
-Galveston,13,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.3482,-95.0128
+Galveston,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.3482,-95.0128
 Gaines,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.74,-102.633
-Frio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.867,-99.107
+Frio,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.867,-99.107
 Freestone,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.715,-96.138
 Franklin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.169,-95.216
-Fort Bend,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.535,-95.756
+Fort Bend,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.535,-95.756
 Foard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.958,-99.761
 Floyd,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.072,-101.303
 Fisher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.743,-100.402
@@ -183,20 +183,20 @@ Fannin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.605
 Falls,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.253,-96.937
 Erath,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.215,-98.208
 Ellis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.35,-96.735
-El Paso,22,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.804,-106.299
+El Paso,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.804,-106.299
 Edwards,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.956,-100.227
-Ector,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-102.543
+Ector,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-102.543
 Eastland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.326,-98.796
 Duval,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.661,-98.517
 Donley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.965,-100.814
-Dimmit,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.422,-99.754
+Dimmit,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.422,-99.754
 Dickens,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.616,-100.779
 DeWitt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.096,-97.365
 Denton,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.203,-97.116
 Delta,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.414,-95.583
 Deaf Smith,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.966,-102.605
 Dawson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.742,-101.948
-Dallas,22,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.766,-96.777
+Dallas,79,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.766,-96.777
 Dallam,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.277,-102.602
 Culberson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.453,-104.471
 Crosby,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.614,-101.301
@@ -207,10 +207,10 @@ Coryell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.39
 Cooke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.67,-97.215
 Concho,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.332,-99.858
 Comanche,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.981,-98.54
-Comal,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.809,-98.322
+Comal,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.809,-98.322
 Colorado,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.604,-96.524
 Collingsworth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.965,-100.27
-Collin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.191,-96.569
+Collin,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.191,-96.569
 Coleman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.757,-99.459
 Coke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.888,-100.53
 Cochran,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.606,-102.825
@@ -226,48 +226,48 @@ Cameron,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.10
 Callahan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.297,-99.372
 Calhoun,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.44,-96.626
 Caldwell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.833,-97.607
-Burnet,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.731,-98.144
-Burleson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.514,-96.617
+Burnet,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.731,-98.144
+Burleson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.514,-96.617
 Brown,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.797,-98.936
 Brooks,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.022,-98.261
 Briscoe,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.529,-101.208
 Brewster,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.747,-103.06
 Brazos,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.707,-96.34
-Brazoria,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.11,-95.465
+Brazoria,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.11,-95.465
 Bowie,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.406,-94.394
 Bosque,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.92,-97.641
 Borden,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.743,-101.432
-Blanco,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.236,-98.358
-Bexar,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.433,-98.461
-Bell,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.051,-97.492
+Blanco,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.236,-98.358
+Bexar,39,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.433,-98.461
+Bell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.051,-97.492
 Bee,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.394,-97.732
 Baylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.616,-99.214
-Bastrop,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.104,-97.336
+Bastrop,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.104,-97.336
 Bandera,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.76,-99.191
 Bailey,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.068,-102.831
 Austin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.927,-96.313
 Atascosa,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.888,-98.451
 Armstrong,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.965,-101.357
-Archer,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.615,-98.687
-Aransas,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.0641,-97.0988
+Archer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.615,-98.687
+Aransas,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.0641,-97.0988
 Angelina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.248,-94.567
 Andrews,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.304,-102.637
 Anderson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.788,-95.661
-Zavala,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.866,-99.761
+Zavala,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.866,-99.761
 Zapata,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.971,-99.203
 Young,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.175,-98.687
 Yoakum,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.173,-102.829
-Wood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.783,-95.407
+Wood,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.783,-95.407
 Wise,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.214,-97.652
 Winkler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-103.062
 Wilson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.176,-98.067
-Williamson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.68,-97.602
+Williamson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.68,-97.602
 Willacy,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.453,-97.585
 Wilbarger,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.087,-99.213
-Wichita,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.984,-98.688
+Wichita,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.984,-98.688
 Wheeler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.401,-100.269
 Wharton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.286,-96.241
-Webb,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.851,-99.505
+Webb,13,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.851,-99.505
 Washington,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.209,-96.437
 Ward,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.511,-103.189
 Waller,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.981,-95.997
@@ -280,29 +280,29 @@ Upton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.367,
 Upshur,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.73,-94.912
 Tyler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.779,-94.354
 Trinity,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.068,-95.138
-Travis,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.249,-97.771
+Travis,30,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.249,-97.771
 Tom Green,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.447,-100.689
 Titus,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.23,-94.967
 Throckmorton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.177,-99.211
 Terry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.173,-102.335
 Terrell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.224,-102.106
-Taylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.301,-99.89
-Tarrant,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.77,-97.291
+Taylor,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.301,-99.89
+Tarrant,19,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.77,-97.291
 Swisher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.53,-101.734
-Sutton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.497,-100.538
+Sutton,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.497,-100.538
 Stonewall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.179,-100.254
 Sterling,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.823,-101.044
 Stephens,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.736,-98.835
 Starr,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.551,-98.746
 Somervell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.223,-97.779
-Smith,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.358,-95.289
+Smith,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.358,-95.289
 Sherman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.277,-101.893
 Shelby,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.802,-94.152
 Shackelford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.736,-99.354
 Scurry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.745,-100.915
 Schleicher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.897,-100.538
 San Saba,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.152,-98.753
-San Patricio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.999,-97.521
+San Patricio,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.999,-97.521
 San Jacinto,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.518,-95.094
 San Augustine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.385,-94.191
 Sabine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.363,-93.821
@@ -326,7 +326,7 @@ Parmer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.53,
 Parker,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.777,-97.805
 Panola,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.157,-94.308
 Palo Pinto,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.759,-98.316
-Orange,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.114,-93.903
+Orange,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.114,-93.903
 Oldham,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.405,-102.602
 Ochiltree,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.278,-100.815
 Nueces,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.711,-97.463
@@ -337,7 +337,7 @@ Nacogdoches,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,3
 Motley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.073,-100.779
 Morris,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.116,-94.736
 Moore,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.837,-101.892
-Montgomery,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.306,-95.463
+Montgomery,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.306,-95.463
 Montague,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.685,-97.731
 Mitchell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.306,-100.922
 Mills,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.515,-98.63
@@ -346,7 +346,7 @@ Midland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.86
 Menard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.898,-99.8
 Medina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.357,-99.109
 McMullen,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.352,-98.568
-McLennan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.549,-97.203
+McLennan,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.549,-97.203
 McCulloch,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.182,-99.347
 Maverick,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.801,-100.389
 Matagorda,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.859,-95.945
@@ -367,7 +367,7 @@ Lee,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.296,-9
 Lavaca,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.361,-96.9
 Lampasas,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.232,-98.238
 Lamb,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.069,-102.35
-Lamar,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.702,-95.582
+Lamar,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.702,-95.582
 La Salle,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.344,-99.098
 Knox,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.602,-99.734
 Kleberg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.419,-97.612
@@ -382,53 +382,53 @@ Kaufman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.58
 Karnes,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.902,-97.882
 Jones,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.74,-99.879
 Johnson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.381,-97.351
-Jim Wells,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.846,-98.012
+Jim Wells,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.846,-98.012
 Jim Hogg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.07,-98.686
 Jefferson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.879,-94.129
 Jeff Davis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.76,-104.209
 Jasper,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.941,-94.162
-Jackson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.975,-96.623
+Jackson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.975,-96.623
 Jack,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.235,-98.172
 Irion,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.304,-100.981
 Hutchinson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.84,-101.354
-Hunt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.109,-96.077
-Hudspeth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.462,-105.452
+Hunt,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.109,-96.077
+Hudspeth,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.462,-105.452
 Howard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.305,-101.434
 Houston,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.342,-95.367
 Hopkins,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.159,-95.585
 Hood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.421,-97.841
-Hockley,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.606,-102.345
+Hockley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.606,-102.345
 Hill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.044,-97.108
-Hidalgo,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.429,-98.224
+Hidalgo,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.429,-98.224
 Henderson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.188,-95.941
 Hemphill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.837,-100.27
 Hays,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.001,-98.003
 Haskell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.178,-99.731
 Hartley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.84,-102.602
 Harrison,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.522,-94.372
-Harris,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.849,-95.434
+Harris,25,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.849,-95.434
 Hardin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.312,-94.401
 Hardeman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.253,-99.736
 Hansford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.277,-101.354
 Hamilton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.73,-98.115
 Hall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.53,-100.681
 Hale,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.07,-101.826
-Guadalupe,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.579,-97.971
+Guadalupe,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.579,-97.971
 Grimes,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.539,-95.996
-Gregg,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.501,-94.783
-Grayson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.659,-96.662
+Gregg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.501,-94.783
+Grayson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.659,-96.662
 Gray,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,35.401,-100.812
 Gonzales,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.443,-97.494
 Goliad,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.654,-97.466
 Glasscock,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-101.52
 Gillespie,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.318,-98.945
 Garza,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.179,-101.298
-Galveston,13,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.3482,-95.0128
+Galveston,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.3482,-95.0128
 Gaines,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.74,-102.633
-Frio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.867,-99.107
+Frio,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.867,-99.107
 Freestone,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.715,-96.138
 Franklin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.169,-95.216
-Fort Bend,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.535,-95.756
+Fort Bend,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.535,-95.756
 Foard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.958,-99.761
 Floyd,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.072,-101.303
 Fisher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.743,-100.402
@@ -437,20 +437,20 @@ Fannin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.605
 Falls,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.253,-96.937
 Erath,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.215,-98.208
 Ellis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.35,-96.735
-El Paso,22,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.804,-106.299
+El Paso,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.804,-106.299
 Edwards,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.956,-100.227
-Ector,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-102.543
+Ector,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.869,-102.543
 Eastland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.326,-98.796
 Duval,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.661,-98.517
 Donley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.965,-100.814
-Dimmit,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.422,-99.754
+Dimmit,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.422,-99.754
 Dickens,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.616,-100.779
 DeWitt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.096,-97.365
 Denton,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.203,-97.116
 Delta,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.414,-95.583
 Deaf Smith,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.966,-102.605
 Dawson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.742,-101.948
-Dallas,22,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.766,-96.777
+Dallas,79,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.766,-96.777
 Dallam,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,36.277,-102.602
 Culberson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.453,-104.471
 Crosby,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.614,-101.301
@@ -461,10 +461,10 @@ Coryell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.39
 Cooke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.67,-97.215
 Concho,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.332,-99.858
 Comanche,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.981,-98.54
-Comal,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.809,-98.322
+Comal,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.809,-98.322
 Colorado,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.604,-96.524
 Collingsworth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.965,-100.27
-Collin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.191,-96.569
+Collin,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.191,-96.569
 Coleman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.757,-99.459
 Coke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.888,-100.53
 Cochran,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.606,-102.825
@@ -480,30 +480,30 @@ Cameron,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,26.10
 Callahan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.297,-99.372
 Calhoun,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.44,-96.626
 Caldwell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.833,-97.607
-Burnet,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.731,-98.144
-Burleson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.514,-96.617
+Burnet,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.731,-98.144
+Burleson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.514,-96.617
 Brown,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.797,-98.936
 Brooks,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,27.022,-98.261
 Briscoe,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.529,-101.208
 Brewster,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.747,-103.06
 Brazos,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.707,-96.34
-Brazoria,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.11,-95.465
+Brazoria,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.11,-95.465
 Bowie,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.406,-94.394
 Bosque,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.92,-97.641
 Borden,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.743,-101.432
-Blanco,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.236,-98.358
-Bexar,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.433,-98.461
-Bell,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.051,-97.492
+Blanco,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.236,-98.358
+Bexar,39,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.433,-98.461
+Bell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.051,-97.492
 Bee,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.394,-97.732
 Baylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.616,-99.214
-Bastrop,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.104,-97.336
+Bastrop,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,30.104,-97.336
 Bandera,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.76,-99.191
 Bailey,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.068,-102.831
 Austin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,29.927,-96.313
 Atascosa,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.888,-98.451
 Armstrong,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,34.965,-101.357
-Archer,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.615,-98.687
-Aransas,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.0641,-97.0988
+Archer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,33.615,-98.687
+Aransas,---,All Deaths (Natural and Injury) where Opioids Were Involved,2007,28.0641,-97.0988
 Angelina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.248,-94.567
 Andrews,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,32.304,-102.637
 Anderson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2007,31.788,-95.661

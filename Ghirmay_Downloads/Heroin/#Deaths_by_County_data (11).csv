@@ -4,10 +4,10 @@ Zapata,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.971
 Young,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.175,-98.687
 Yoakum,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.173,-102.829
 Wood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.783,-95.407
-Wise,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.214,-97.652
+Wise,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.214,-97.652
 Winkler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-103.062
 Wilson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.176,-98.067
-Williamson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.68,-97.602
+Williamson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.68,-97.602
 Willacy,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.453,-97.585
 Wilbarger,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.087,-99.213
 Wichita,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.984,-98.688
@@ -21,19 +21,19 @@ Walker,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.727
 Victoria,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.802,-96.974
 Van Zandt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.556,-95.762
 Val Verde,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.905,-101.23
-Uvalde,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.357,-99.762
+Uvalde,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.357,-99.762
 Upton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.367,-102.046
 Upshur,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.73,-94.912
 Tyler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.779,-94.354
 Trinity,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.068,-95.138
-Travis,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.249,-97.771
-Tom Green,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.447,-100.689
+Travis,33,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.249,-97.771
+Tom Green,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.447,-100.689
 Titus,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.23,-94.967
 Throckmorton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.177,-99.211
 Terry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.173,-102.335
 Terrell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.224,-102.106
 Taylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.301,-99.89
-Tarrant,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.77,-97.291
+Tarrant,17,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.77,-97.291
 Swisher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.53,-101.734
 Sutton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.497,-100.538
 Stonewall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.179,-100.254
@@ -48,24 +48,24 @@ Shackelford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,3
 Scurry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.745,-100.915
 Schleicher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.897,-100.538
 San Saba,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.152,-98.753
-San Patricio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.999,-97.521
+San Patricio,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.999,-97.521
 San Jacinto,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.518,-95.094
 San Augustine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.385,-94.191
 Sabine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.363,-93.821
-Rusk,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.107,-94.719
+Rusk,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.107,-94.719
 Runnels,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.83,-99.975
 Rockwall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.897,-96.408
 Robertson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.981,-96.532
 Roberts,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.838,-100.812
 Refugio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.324,-97.152
-Reeves,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.218,-103.556
+Reeves,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.218,-103.556
 Red River,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.619,-95.021
 Real,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.849,-99.832
 Reagan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.365,-101.521
 Randall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-101.895
 Rains,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.873,-95.811
 Presidio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.029,-104.386
-Potter,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.401,-101.895
+Potter,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.401,-101.895
 Polk,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.832,-94.869
 Pecos,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.728,-102.676
 Parmer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.53,-102.784
@@ -81,18 +81,18 @@ Newton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.879
 Navarro,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.045,-96.473
 Nacogdoches,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.643,-94.639
 Motley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.073,-100.779
-Morris,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.116,-94.736
+Morris,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.116,-94.736
 Moore,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.837,-101.892
-Montgomery,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.306,-95.463
+Montgomery,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.306,-95.463
 Montague,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.685,-97.731
 Mitchell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.306,-100.922
 Mills,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.515,-98.63
 Milam,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.798,-96.963
-Midland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.031
+Midland,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.031
 Menard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.898,-99.8
 Medina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.357,-99.109
 McMullen,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.352,-98.568
-McLennan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.549,-97.203
+McLennan,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.549,-97.203
 McCulloch,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.182,-99.347
 Maverick,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.801,-100.389
 Matagorda,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.859,-95.945
@@ -128,7 +128,7 @@ Kaufman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.58
 Karnes,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.902,-97.882
 Jones,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.74,-99.879
 Johnson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.381,-97.351
-Jim Wells,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.846,-98.012
+Jim Wells,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.846,-98.012
 Jim Hogg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.07,-98.686
 Jefferson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.879,-94.129
 Jeff Davis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.76,-104.209
@@ -136,23 +136,23 @@ Jasper,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.941
 Jackson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.975,-96.623
 Jack,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.235,-98.172
 Irion,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.304,-100.981
-Hutchinson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.84,-101.354
+Hutchinson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.84,-101.354
 Hunt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.109,-96.077
 Hudspeth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.462,-105.452
 Howard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.305,-101.434
 Houston,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.342,-95.367
 Hopkins,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.159,-95.585
-Hood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.421,-97.841
+Hood,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.421,-97.841
 Hockley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.606,-102.345
 Hill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.044,-97.108
 Hidalgo,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.429,-98.224
 Henderson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.188,-95.941
 Hemphill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.837,-100.27
-Hays,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.001,-98.003
+Hays,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.001,-98.003
 Haskell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.178,-99.731
 Hartley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.84,-102.602
 Harrison,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.522,-94.372
-Harris,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.849,-95.434
+Harris,29,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.849,-95.434
 Hardin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.312,-94.401
 Hardeman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.253,-99.736
 Hansford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,36.277,-101.354
@@ -183,9 +183,9 @@ Fannin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.605
 Falls,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.253,-96.937
 Erath,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.215,-98.208
 Ellis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.35,-96.735
-El Paso,12,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.804,-106.299
+El Paso,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.804,-106.299
 Edwards,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.956,-100.227
-Ector,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.543
+Ector,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.543
 Eastland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.326,-98.796
 Duval,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.661,-98.517
 Donley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-100.814
@@ -196,7 +196,7 @@ Denton,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.2
 Delta,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.414,-95.583
 Deaf Smith,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.966,-102.605
 Dawson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.742,-101.948
-Dallas,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.766,-96.777
+Dallas,51,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.766,-96.777
 Dallam,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,36.277,-102.602
 Culberson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.453,-104.471
 Crosby,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.614,-101.301
@@ -204,13 +204,13 @@ Crockett,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.8
 Crane,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.456,-102.534
 Cottle,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.074,-100.258
 Coryell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.39,-97.799
-Cooke,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.67,-97.215
+Cooke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.67,-97.215
 Concho,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.332,-99.858
 Comanche,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.981,-98.54
 Comal,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.809,-98.322
 Colorado,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.604,-96.524
 Collingsworth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-100.27
-Collin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.191,-96.569
+Collin,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.191,-96.569
 Coleman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.757,-99.459
 Coke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.888,-100.53
 Cochran,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.606,-102.825
@@ -222,7 +222,7 @@ Castro,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.529
 Cass,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.068,-94.348
 Carson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.403,-101.354
 Camp,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.988,-94.936
-Cameron,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.109,-97.475
+Cameron,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.109,-97.475
 Callahan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.297,-99.372
 Calhoun,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.44,-96.626
 Caldwell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.833,-97.607
@@ -232,14 +232,14 @@ Brown,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.797,
 Brooks,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.022,-98.261
 Briscoe,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.529,-101.208
 Brewster,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.747,-103.06
-Brazos,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.707,-96.34
+Brazos,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.707,-96.34
 Brazoria,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.11,-95.465
 Bowie,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.406,-94.394
 Bosque,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.92,-97.641
 Borden,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.743,-101.432
 Blanco,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.236,-98.358
-Bexar,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.433,-98.461
-Bell,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.051,-97.492
+Bexar,31,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.433,-98.461
+Bell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.051,-97.492
 Bee,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.394,-97.732
 Baylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.616,-99.214
 Bastrop,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.104,-97.336
@@ -248,7 +248,7 @@ Bailey,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.068
 Austin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.927,-96.313
 Atascosa,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.888,-98.451
 Armstrong,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-101.357
-Archer,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.615,-98.687
+Archer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.615,-98.687
 Aransas,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.0641,-97.0988
 Angelina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.248,-94.567
 Andrews,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.304,-102.637
@@ -258,10 +258,10 @@ Zapata,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.971
 Young,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.175,-98.687
 Yoakum,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.173,-102.829
 Wood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.783,-95.407
-Wise,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.214,-97.652
+Wise,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.214,-97.652
 Winkler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-103.062
 Wilson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.176,-98.067
-Williamson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.68,-97.602
+Williamson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.68,-97.602
 Willacy,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.453,-97.585
 Wilbarger,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.087,-99.213
 Wichita,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.984,-98.688
@@ -275,19 +275,19 @@ Walker,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.727
 Victoria,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.802,-96.974
 Van Zandt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.556,-95.762
 Val Verde,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.905,-101.23
-Uvalde,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.357,-99.762
+Uvalde,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.357,-99.762
 Upton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.367,-102.046
 Upshur,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.73,-94.912
 Tyler,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.779,-94.354
 Trinity,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.068,-95.138
-Travis,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.249,-97.771
-Tom Green,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.447,-100.689
+Travis,33,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.249,-97.771
+Tom Green,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.447,-100.689
 Titus,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.23,-94.967
 Throckmorton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.177,-99.211
 Terry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.173,-102.335
 Terrell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.224,-102.106
 Taylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.301,-99.89
-Tarrant,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.77,-97.291
+Tarrant,17,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.77,-97.291
 Swisher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.53,-101.734
 Sutton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.497,-100.538
 Stonewall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.179,-100.254
@@ -302,24 +302,24 @@ Shackelford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,3
 Scurry,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.745,-100.915
 Schleicher,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.897,-100.538
 San Saba,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.152,-98.753
-San Patricio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.999,-97.521
+San Patricio,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.999,-97.521
 San Jacinto,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.518,-95.094
 San Augustine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.385,-94.191
 Sabine,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.363,-93.821
-Rusk,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.107,-94.719
+Rusk,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.107,-94.719
 Runnels,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.83,-99.975
 Rockwall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.897,-96.408
 Robertson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.981,-96.532
 Roberts,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.838,-100.812
 Refugio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.324,-97.152
-Reeves,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.218,-103.556
+Reeves,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.218,-103.556
 Red River,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.619,-95.021
 Real,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.849,-99.832
 Reagan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.365,-101.521
 Randall,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-101.895
 Rains,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.873,-95.811
 Presidio,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.029,-104.386
-Potter,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.401,-101.895
+Potter,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.401,-101.895
 Polk,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.832,-94.869
 Pecos,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.728,-102.676
 Parmer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.53,-102.784
@@ -335,18 +335,18 @@ Newton,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.879
 Navarro,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.045,-96.473
 Nacogdoches,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.643,-94.639
 Motley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.073,-100.779
-Morris,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.116,-94.736
+Morris,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.116,-94.736
 Moore,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.837,-101.892
-Montgomery,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.306,-95.463
+Montgomery,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.306,-95.463
 Montague,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.685,-97.731
 Mitchell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.306,-100.922
 Mills,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.515,-98.63
 Milam,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.798,-96.963
-Midland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.031
+Midland,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.031
 Menard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.898,-99.8
 Medina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.357,-99.109
 McMullen,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.352,-98.568
-McLennan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.549,-97.203
+McLennan,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.549,-97.203
 McCulloch,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.182,-99.347
 Maverick,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.801,-100.389
 Matagorda,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.859,-95.945
@@ -382,7 +382,7 @@ Kaufman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.58
 Karnes,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.902,-97.882
 Jones,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.74,-99.879
 Johnson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.381,-97.351
-Jim Wells,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.846,-98.012
+Jim Wells,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.846,-98.012
 Jim Hogg,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.07,-98.686
 Jefferson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.879,-94.129
 Jeff Davis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.76,-104.209
@@ -390,23 +390,23 @@ Jasper,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.941
 Jackson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.975,-96.623
 Jack,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.235,-98.172
 Irion,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.304,-100.981
-Hutchinson,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.84,-101.354
+Hutchinson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.84,-101.354
 Hunt,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.109,-96.077
 Hudspeth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.462,-105.452
 Howard,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.305,-101.434
 Houston,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.342,-95.367
 Hopkins,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.159,-95.585
-Hood,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.421,-97.841
+Hood,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.421,-97.841
 Hockley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.606,-102.345
 Hill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.044,-97.108
 Hidalgo,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.429,-98.224
 Henderson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.188,-95.941
 Hemphill,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.837,-100.27
-Hays,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.001,-98.003
+Hays,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.001,-98.003
 Haskell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.178,-99.731
 Hartley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.84,-102.602
 Harrison,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.522,-94.372
-Harris,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.849,-95.434
+Harris,29,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.849,-95.434
 Hardin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.312,-94.401
 Hardeman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.253,-99.736
 Hansford,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,36.277,-101.354
@@ -437,9 +437,9 @@ Fannin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.605
 Falls,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.253,-96.937
 Erath,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.215,-98.208
 Ellis,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.35,-96.735
-El Paso,12,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.804,-106.299
+El Paso,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.804,-106.299
 Edwards,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.956,-100.227
-Ector,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.543
+Ector,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.869,-102.543
 Eastland,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.326,-98.796
 Duval,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.661,-98.517
 Donley,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-100.814
@@ -450,7 +450,7 @@ Denton,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.2
 Delta,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.414,-95.583
 Deaf Smith,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.966,-102.605
 Dawson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.742,-101.948
-Dallas,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.766,-96.777
+Dallas,51,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.766,-96.777
 Dallam,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,36.277,-102.602
 Culberson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.453,-104.471
 Crosby,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.614,-101.301
@@ -458,13 +458,13 @@ Crockett,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.8
 Crane,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.456,-102.534
 Cottle,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.074,-100.258
 Coryell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.39,-97.799
-Cooke,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.67,-97.215
+Cooke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.67,-97.215
 Concho,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.332,-99.858
 Comanche,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.981,-98.54
 Comal,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.809,-98.322
 Colorado,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.604,-96.524
 Collingsworth,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-100.27
-Collin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.191,-96.569
+Collin,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.191,-96.569
 Coleman,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.757,-99.459
 Coke,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.888,-100.53
 Cochran,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.606,-102.825
@@ -476,7 +476,7 @@ Castro,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.529
 Cass,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.068,-94.348
 Carson,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,35.403,-101.354
 Camp,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.988,-94.936
-Cameron,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.109,-97.475
+Cameron,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,26.109,-97.475
 Callahan,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.297,-99.372
 Calhoun,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.44,-96.626
 Caldwell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.833,-97.607
@@ -486,14 +486,14 @@ Brown,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.797,
 Brooks,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,27.022,-98.261
 Briscoe,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.529,-101.208
 Brewster,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.747,-103.06
-Brazos,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.707,-96.34
+Brazos,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.707,-96.34
 Brazoria,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.11,-95.465
 Bowie,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.406,-94.394
 Bosque,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.92,-97.641
 Borden,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.743,-101.432
 Blanco,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.236,-98.358
-Bexar,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.433,-98.461
-Bell,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.051,-97.492
+Bexar,31,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.433,-98.461
+Bell,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.051,-97.492
 Bee,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.394,-97.732
 Baylor,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.616,-99.214
 Bastrop,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,30.104,-97.336
@@ -502,7 +502,7 @@ Bailey,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.068
 Austin,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,29.927,-96.313
 Atascosa,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.888,-98.451
 Armstrong,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,34.965,-101.357
-Archer,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.615,-98.687
+Archer,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,33.615,-98.687
 Aransas,---,All Deaths (Natural and Injury) where Opioids Were Involved,2004,28.0641,-97.0988
 Angelina,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,31.248,-94.567
 Andrews,0,All Deaths (Natural and Injury) where Opioids Were Involved,2004,32.304,-102.637
